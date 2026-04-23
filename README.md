@@ -15,7 +15,7 @@ Check project requirements from here : **[CLICK HERE](https://github.com/kishanr
 ### Simple Instructions
 These instructions are for those who are comfortable working with the terminal. 
 
-1. Make sure you have Cmake, Make and a C++ Compiler installed. See [Setting up your system for C++ development(YouTube)](https://www.youtube.com/watch?v=IC4RY-MMPVs)
+1. Make sure you have Cmake, Make and a C++ Compiler installed.
 
 2. Clone the project 
 ```shell
@@ -53,13 +53,11 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## Author
 
-👤 **Kishan Kumar Rai**
+👤 **Luqman-MachineLearning**
 
-- Connect With Me [Here](https://linktr.ee/kishan_rajput23) 👈
+- Connect With Me [Here](machinelearningwithluqman@gmail.com) 👈
 
 ## Show Your Support
 
 Please ⭐️ this repository if this project helped you!
 
-## License
-This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
