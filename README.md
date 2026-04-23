@@ -55,7 +55,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 👤 **Luqman-MachineLearning**
 
-- Connect With Me [Here](machinelearningwithluqman@gmail.com) 👈
+- Connect With Me:   machinelearningwithluqman@gmail.com 👈
 
 ## Show Your Support
 
